@@ -1,6 +1,15 @@
 <center> <h1>HBNB - The Console</h1> </center>
 
-This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
+This repository contains a student-built clone of the AirBnB platform centered on a Python command-line console for managing application data. It includes object models (such as users, places, states, and reviews), persistent JSON-based storage, and unit testing for core behavior, along with the web/static front-end work and deployment-related scripts represented in this codebase.
+
+## Technology Stack
+
+| Language | Composition |
+| --- | ---: |
+| HTML | 42.1% |
+| Python | 35.0% |
+| CSS | 22.3% |
+| Shell | 0.6% |
 
 ---
 
